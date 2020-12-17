@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileIOLibrary", "FileIOLibrary\FileIOLibrary.csproj", "{4E202FF6-ECB8-454D-8445-09FE51DD3550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIOClient", "FileIOClient\FileIOClient.csproj", "{42452C0E-E400-470F-9BEB-EC5CAA473BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E202FF6-ECB8-454D-8445-09FE51DD3550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E202FF6-ECB8-454D-8445-09FE51DD3550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E202FF6-ECB8-454D-8445-09FE51DD3550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E202FF6-ECB8-454D-8445-09FE51DD3550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42452C0E-E400-470F-9BEB-EC5CAA473BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42452C0E-E400-470F-9BEB-EC5CAA473BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42452C0E-E400-470F-9BEB-EC5CAA473BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42452C0E-E400-470F-9BEB-EC5CAA473BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89EE7FDC-9716-46D1-8D87-7BC6FEBB5F95}
+	EndGlobalSection
+EndGlobal
